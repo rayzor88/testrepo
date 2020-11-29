@@ -2,4 +2,4 @@
 
 ## Editing this file
 
-This file is for my HTML/CSS/JavaScript beta course on Coursera.
+This repo is for my HTML/CSS/JavaScript beta course on Coursera.
